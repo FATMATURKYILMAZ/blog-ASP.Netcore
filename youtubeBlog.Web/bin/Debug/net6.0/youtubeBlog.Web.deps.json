@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "youtubeBlog.Web/1.0.0": {
+        "runtime": {
+          "youtubeBlog.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "youtubeBlog.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
