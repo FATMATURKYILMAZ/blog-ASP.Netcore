@@ -1,9 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using blogSitesi.Data.Context;
+using System.Reflection;
+using blogSitesi.Data.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
+var assembly = Assembly.GetExecutingAssembly().FullName;
 
 // Add services to the container.
+builder.Services.LoadDataLayerExtension(builder.Configuration);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

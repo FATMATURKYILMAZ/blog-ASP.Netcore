@@ -11,5 +11,8 @@ namespace blogSitesi.Entity.Entities
         public Guid Id { get; set; }
         public string name { get; set; }
         public ICollection<Article> Articles { get; set; }
+        public string? CreatedBy { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public bool IsDeleted { get; set; }
     }
 }

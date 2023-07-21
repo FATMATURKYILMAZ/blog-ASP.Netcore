@@ -13,5 +13,10 @@ namespace blogSitesi.Entity.Entities
         public string fileName { get; set; }
         public string fileType { get; set; }
         public ICollection<Article> Articles { get; set; }
+
+        /*public static implicit operator Guid(Image v)
+        {
+            throw new NotImplementedException();
+        }*/
     }
 }

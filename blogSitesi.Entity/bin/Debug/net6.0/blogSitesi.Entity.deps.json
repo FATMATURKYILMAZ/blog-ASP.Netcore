@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "blogSitesi.Entity/1.0.0": {
+        "dependencies": {
+          "blogSitesi.Core": "1.0.0"
+        },
+        "runtime": {
+          "blogSitesi.Entity.dll": {}
+        }
+      },
+      "blogSitesi.Core/1.0.0": {
+        "runtime": {
+          "blogSitesi.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blogSitesi.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "blogSitesi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

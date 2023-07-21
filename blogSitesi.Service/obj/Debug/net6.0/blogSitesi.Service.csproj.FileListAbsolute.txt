@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\bin\Debug\net6.0\blogSitesi.Service.deps.json
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\bin\Debug\net6.0\blogSitesi.Service.dll
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\bin\Debug\net6.0\blogSitesi.Service.pdb
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.dll
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\refint\blogSitesi.Service.dll
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\blogSitesi.Service.pdb
+C:\Users\ASUS\Desktop\asp.Net\blogSitesi\blogSitesi.Service\obj\Debug\net6.0\ref\blogSitesi.Service.dll
